@@ -1,0 +1,5 @@
+{
+  "name": "URVASHI AI",
+  "description": "Urvashi — A young-hearted AI girlfriend engineered by CodeSamurai. Natural, sharp, and human-like Hindi/Hinglish.",
+  "requestFramePermissions": ["microphone"]
+}
